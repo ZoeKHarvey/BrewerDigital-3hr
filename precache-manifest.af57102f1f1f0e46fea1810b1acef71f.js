@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4bf1637b92a2a6e981b3d657d3e07d4",
+    "revision": "a4a8ad021b4202ef0b352f7122671dd4",
     "url": "/BrewerDigital-3hr/index.html"
   },
   {
-    "revision": "07a5620d53bb147e1e64",
-    "url": "/BrewerDigital-3hr/static/css/main.8583822b.chunk.css"
+    "revision": "2756e7f2c5bdfc17973a",
+    "url": "/BrewerDigital-3hr/static/css/main.fae3868f.chunk.css"
   },
   {
     "revision": "537cfc290991d51ec920",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BrewerDigital-3hr/static/js/2.32752d59.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "07a5620d53bb147e1e64",
+    "revision": "2756e7f2c5bdfc17973a",
     "url": "/BrewerDigital-3hr/static/js/main.4e2de703.chunk.js"
   },
   {

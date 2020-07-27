@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BrewerDigital-3hr/precache-manifest.e17e663f8de1e6060fc2ffa1657d0832.js"
+  "/BrewerDigital-3hr/precache-manifest.af57102f1f1f0e46fea1810b1acef71f.js"
 );
 
 self.addEventListener('message', (event) => {
