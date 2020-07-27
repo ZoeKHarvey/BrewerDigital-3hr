@@ -99,9 +99,8 @@
 }
 
 
+@media screen and (max-width: 900px) {
 
-@media screen and (max-width: 1300px) {
-  
   .Reserve {
     display: none;
   }
