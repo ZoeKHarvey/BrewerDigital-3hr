@@ -1,0 +1,21 @@
+
+.CarouselContainer {
+  background-color: #d1d3d4;
+  height:80vh;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 6vh;
+  width: 73%;
+}
+
+
+
+
+@media screen and (max-width: 675px) {
+  
+  .CarouselContainer {
+    width: 100%;
+    margin-top: 0;
+  }
+  
+}

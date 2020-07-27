@@ -1,0 +1,109 @@
+
+.Reserve {
+  border: 1px solid#d1d3d4;
+  border-radius: 10px;
+  height: 75vh;
+  padding: 2%;
+  text-align: center;
+  width: 80vw;
+}
+
+.reserve-div-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.reserve-div-header > p > span {
+  font-size: 1.4em;
+  font-weight: bold;
+}
+
+.reserve-div-header > img {
+  height: auto;
+  width: 100%;
+}
+
+.reserve-div-header > div {
+  display: flex;
+  font-size: 1.5em;
+  font-weight: bold;
+  justify-content: space-around;
+  padding: 4%;
+  width: 23%;
+}
+
+.reserve-div-img {
+  background-image: url('../../assets/star.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: auto;
+  width: 34%;
+}
+
+.reserve-div-form {
+  display: flex;
+  flex-direction: column;
+  height: 27vh;
+  justify-content: space-between;
+  margin-top: 4vh;
+}
+
+.reserve-div-form > input {
+  border: 1px solid #d1d3d4;
+  border-radius: 10px;
+  font-size: 1.3em;
+  height: 6vh;
+  padding: 2%;
+}
+
+.reserve-div-calc {
+  margin-top: 5vh;
+  text-align: left;
+}
+
+.reserve-div-calc > div {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2vh;
+}
+
+.reserve-div-calc > div > p {
+  margin: 0;
+}
+
+.reserve-div-total {
+  border-top: 1px solid #d1d3d4;
+  font-weight: bold;
+  padding-top: 3vh;
+}
+
+.Reserve > button {
+  background-color: #fe4701;
+  border: none;
+  border-radius: 40px;
+  color: white;
+  font-size: 1.2em;
+  font-weight: bold;
+  height: 6vh;
+  margin-top: 4vh;
+  width: 100%;
+}
+
+.Reserve > p {
+  font-size: .7em;
+  margin-top: 3vh;
+}
+
+.Reserve > p > span {
+  text-decoration: underline;
+}
+
+
+
+@media screen and (max-width: 1300px) {
+  
+  .Reserve {
+    display: none;
+  }
+  
+}

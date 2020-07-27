@@ -1,0 +1,56 @@
+
+.Header {
+  display: flex;
+  justify-content: space-between;
+  padding: 2% 3%;
+}
+
+.Header > div > img {
+  height: auto;
+  width: 100%;
+}
+
+.Header > div {
+  display: flex;
+}
+
+.header-div-img {
+  background-image: url("../../assets/logo\ copy.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 10%;
+}
+
+.Header > div > button {
+  background-color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.header-div-buttons {
+  justify-content: flex-end;
+  width: 50%;
+
+}
+
+.header-button-sign {
+  border: none;
+  margin-right: 2%;
+}
+
+.header-button-create {
+  color: #fe4701;
+  border: 1px solid #fe4701;
+  border-radius: 30px;
+  margin-left: 2%;
+  padding: 8px 14px;
+}
+
+
+
+@media screen and (max-width: 675px) {
+  
+  .Header {
+    display: none;
+  }
+  
+}

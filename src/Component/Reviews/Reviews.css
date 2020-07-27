@@ -1,0 +1,38 @@
+
+.Reviews {
+  border-bottom: 1px solid #d1d3d4;
+  border-top: 1px solid #d1d3d4;
+  padding-bottom: 2vh;
+  padding-top: 4vh;
+  width: 60%;
+}
+
+.div-stars {
+  display: flex;
+}
+
+.div-stars > img {
+  max-width: 3%;
+}
+
+.reviews-p-grey {
+  color: #636466;
+  font-size: .8em;
+}
+
+.Reviews > div > h4 {
+  margin-bottom: 0;
+}
+
+.Reviews > div > p {
+  margin-top: 1%;
+}
+
+
+@media screen and (max-width: 1300px) {
+  
+  .Reviews {
+    width: 90%;
+  }
+  
+}
