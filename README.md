@@ -1,1 +1,3 @@
-GitHub Pages: https://github.com/ZoeKHarvey/BrewerDigital-3hr
+GitHub Pages: https://zoekharvey.github.io/BrewerDigital-3hr/
+
+
