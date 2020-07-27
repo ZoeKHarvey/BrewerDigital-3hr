@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BrewerDigital-3hr/static/css/main.c1dc7dba.chunk.css",
+    "main.js": "/BrewerDigital-3hr/static/js/main.4e2de703.chunk.js",
+    "main.js.map": "/BrewerDigital-3hr/static/js/main.4e2de703.chunk.js.map",
+    "runtime-main.js": "/BrewerDigital-3hr/static/js/runtime-main.283e8e49.js",
+    "runtime-main.js.map": "/BrewerDigital-3hr/static/js/runtime-main.283e8e49.js.map",
+    "static/js/2.32752d59.chunk.js": "/BrewerDigital-3hr/static/js/2.32752d59.chunk.js",
+    "static/js/2.32752d59.chunk.js.map": "/BrewerDigital-3hr/static/js/2.32752d59.chunk.js.map",
+    "index.html": "/BrewerDigital-3hr/index.html",
+    "precache-manifest.4090900757d343709688ea7a9f6a1277.js": "/BrewerDigital-3hr/precache-manifest.4090900757d343709688ea7a9f6a1277.js",
+    "service-worker.js": "/BrewerDigital-3hr/service-worker.js",
+    "static/css/main.c1dc7dba.chunk.css.map": "/BrewerDigital-3hr/static/css/main.c1dc7dba.chunk.css.map",
+    "static/js/2.32752d59.chunk.js.LICENSE.txt": "/BrewerDigital-3hr/static/js/2.32752d59.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/BrewerDigital-3hr/static/media/logo copy.a00e319d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.283e8e49.js",
+    "static/js/2.32752d59.chunk.js",
+    "static/css/main.c1dc7dba.chunk.css",
+    "static/js/main.4e2de703.chunk.js"
+  ]
+}
